@@ -28,3 +28,4 @@ function playByMouse(e) {
 };
 
 ```
+[Live](https://elalfy404.github.io/Javascript-Drum-Kit/)
